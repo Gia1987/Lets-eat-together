@@ -1,0 +1,23 @@
+{
+  "name": "lets_eat_together",
+  "version": "1.0.0",
+  "description": "App which allows user to eat with others ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "web",
+    "app"
+  ],
+  "author": "Giacomo Ninniri",
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
